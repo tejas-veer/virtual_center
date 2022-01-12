@@ -1,3 +1,5 @@
+Table of Contents
+   introduction
 Introduction
 ============
 The recent increase in computational power has given rise to application to novel techniques. In 

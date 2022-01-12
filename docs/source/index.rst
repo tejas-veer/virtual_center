@@ -32,11 +32,11 @@ ____________________
 
    introduction
    background
+   application
    datasets
    algorithms
-   application
-   summary
    notebooks
+   summary
    references
 
 

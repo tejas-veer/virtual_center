@@ -33,6 +33,7 @@ ____________________
    introduction
    background
    application
+   algorithms
    summary
    references
 

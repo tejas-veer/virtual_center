@@ -1,4 +1,4 @@
-Applications of artificial intelligence and machine learning in Earth sciences 
+Applications 
 =====================================================================================
 The AI/ML algorithms have vast applications in the Earth Science problems. Figure 2 depicts few 
 applications in the areas, including atmosphere/biosphere, seismology, and ocean. 

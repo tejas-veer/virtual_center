@@ -1,4 +1,4 @@
-Summary and future directions
+Summary 
 =================================
 .. figure:: ./images/summary.jpg
    :align: center

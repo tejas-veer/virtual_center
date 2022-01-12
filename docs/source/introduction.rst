@@ -1,10 +1,6 @@
 Introduction
 ============
-Table of Contents
-____________________  
-
-.. toctree::
-   :maxdepth: 2
+.. contents:: Table of Contents
    
    introduction
 The recent increase in computational power has given rise to application to novel techniques. In 

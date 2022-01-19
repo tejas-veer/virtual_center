@@ -34,7 +34,6 @@ ____________________
    introduction
    background
    application
-   notebooks
    summary
    references
 
@@ -50,6 +49,12 @@ ____________________
    :caption: Algorithms
 
    algorithms
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Cloud Notebooks
+
+   notebooks
 
 
 

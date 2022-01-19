@@ -2,7 +2,6 @@ Introduction
 ============
 .. contents:: Table of Contents
    
-   introduction
 The recent increase in computational power has given rise to application to novel techniques. In 
 the last few decades in conjunction with increasing computational power we notice significant 
 improvement in forecasts at various scales using numerical techniques. The advent of satellites, 

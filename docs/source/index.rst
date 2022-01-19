@@ -28,15 +28,29 @@ User Documentation
 ____________________  
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 6
+   :caption: Introduction
 
    introduction
    background
    application
-   datasets
-   algorithms
    notebooks
    summary
    references
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Datasets
+
+   datasets
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Algorithms
+
+   algorithms
+
+
 
 

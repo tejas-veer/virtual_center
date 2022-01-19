@@ -1,28 +1,28 @@
 Algorithms
 ===========
 
-Table of Contents
+**Table of Contents**
 
-*:ref:'What’s Included' <included>
-*:ref:'Why These Algorithms?' <why>
+*:ref:'What’s Included <included>'
+*:ref:'Why These Algorithms? <why>'
     *The On-Policy Algorithms
     *The Off-Policy Algorithms
-*:ref:'Code Format' <code>
+*:ref:'Code Format <code>'
     *The Algorithm Function: PyTorch Version
     *The Algorithm Function: Tensorflow Version
     *The Core File
 
 .. _included:
 What’s Included
-===========
+++++++++++++++
 he following algorithms are implemented in the Spinning Up package:
 
-*Vanilla Policy Gradient (VPG)
-*Trust Region Policy Optimization (TRPO)
-*Proximal Policy Optimization (PPO)
-*Deep Deterministic Policy Gradient (DDPG)
-*Twin Delayed DDPG (TD3)
-*Soft Actor-Critic (SAC)
+* Vanilla Policy Gradient (VPG)
+* Trust Region Policy Optimization (TRPO)
+* Proximal Policy Optimization (PPO)
+* Deep Deterministic Policy Gradient (DDPG)
+* Twin Delayed DDPG (TD3)
+* Soft Actor-Critic (SAC)
 
 They are all implemented with MLP (non-recurrent) actor-critics, making them suitable for fully-observed, non-image-based RL environments, e.g. the Gym Mujoco environments.
 
@@ -30,7 +30,7 @@ Spinning Up has two implementations for each algorithm (except for TRPO): one th
 
 .. _why:
 Why These Algorithms?
-=============
++++++++++++++
 We chose the core deep RL algorithms in this package to reflect useful progressions of ideas from the recent history of the field, culminating in two algorithms in particular—PPO and SAC—which are close to state of the art on reliability and sample efficiency among policy-learning algorithms. They also expose some of the trade-offs that get made in designing and using algorithms in deep RL.
 
 The On-Policy Algorithms
@@ -49,7 +49,7 @@ But problematically, there are no guarantees that doing a good job of satisfying
 
 .. _code:
 Code Format
-=================
+++++++++++++++++
 All implementations in Spinning Up adhere to a standard template. They are split into two files: an algorithm file, which contains the core logic of the algorithm, and a core file, which contains various utilities needed to run the algorithm.
 
 The algorithm file always starts with a class definition for an experience buffer object, which is used to store information from agent-environment interactions. Next, there is a single function which runs the algorithm. The algorithm function follows a template that is roughly the same across the PyTorch and Tensorflow versions, but we’ll break it down for each separately below. Finally, there’s some support in each algorithm file for directly running the algorithm in Gym environments from the command line (though this is not the recommended way to run the algorithms—we’ll describe how to do that on the Running Experiments page).

@@ -3,14 +3,7 @@ Algorithms
 
 **Table of Contents**
 
-*:ref:'What’s Included <included>'
-*:ref:'Why These Algorithms? <why>'
-    *The On-Policy Algorithms
-    *The Off-Policy Algorithms
-*:ref:'Code Format <code>'
-    *The Algorithm Function: PyTorch Version
-    *The Algorithm Function: Tensorflow Version
-    *The Core File
+.. contents:: Table of Contents
 
 .. _included:
 What’s Included

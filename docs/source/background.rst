@@ -6,7 +6,7 @@ been summarized in the mind map, depicted in Figure 1, taking the case of weathe
 sciences as an example.
 
 Machine learning algorithms for ESS
-____________________________________
++++++++++++++++++++++++++++++++++++++
 Various algorithms which have shown remarkable performance in computer vision, natural 
 language processing, and reinforcement learning etc can be directly applied to the problems of 
 ESS. For example, the super-resolution methodology (SRCNN, DeepSD) developed by Dong et 

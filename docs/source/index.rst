@@ -29,7 +29,7 @@ ____________________
 
 .. toctree::
    :maxdepth: 6
-   :caption: ML/AI In ESS
+   :caption: ML For Earth System Science
 
    introduction
    background

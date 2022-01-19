@@ -29,7 +29,7 @@ ____________________
 
 .. toctree::
    :maxdepth: 6
-   :caption: Introduction
+   :caption: ML/AI In ESS
 
    introduction
    background

@@ -2,7 +2,7 @@
 Notebooks
 =============
 
-**- `Google Colaboratory`_**
+- `Google Colaboratory`_
 ___________________________________
 .. _`Google Colaboratory`: https://research.google.com/colaboratory/
 
@@ -10,7 +10,7 @@ ___________________________________
    :align: center
 
 
-**- `Kaggle`_**
+- `Kaggle`_
 ___________________________________
 .. _`Kaggle`: https://www.kaggle.com/
 

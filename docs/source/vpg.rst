@@ -8,10 +8,6 @@ Vanilla Policy Gradient
 Background
 ==========
 
-(Previously: `Introduction to RL, Part 3`_)
-
-.. _`Introduction to RL, Part 3`: ../spinningup/rl_intro3.html
-
 The key idea underlying policy gradients is to push up the probabilities of actions that lead to higher return, and push down the probabilities of actions that lead to lower return, until you arrive at the optimal policy.
 
 Quick Facts
@@ -93,10 +89,6 @@ Documentation
 Documentation: PyTorch Version
 ------------------------------
 
-.. autofunction:: spinup.vpg_pytorch
-
-Saved Model Contents: PyTorch Version
--------------------------------------
 
 The PyTorch saved model can be loaded with ``ac = torch.load('path/to/model.pt')``, yielding an actor-critic object (``ac``) that has the properties described in the docstring for ``vpg_pytorch``. 
 
@@ -110,10 +102,10 @@ You can get actions from this model with
 Documentation: Tensorflow Version
 ---------------------------------
 
-.. autofunction:: spinup.vpg_tf1
+
 
 Saved Model Contents: Tensorflow Version
-----------------------------------------
+
 
 The computation graph saved by the logger includes:
 

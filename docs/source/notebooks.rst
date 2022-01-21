@@ -9,6 +9,7 @@ Notebooks
 .. figure:: /images/colab.jpeg
    :align: center
    :alt: Google Colaboratory
+   :scale: 50%
    :target: https://research.google.com/colaboratory/
 
 - `Kaggle`_

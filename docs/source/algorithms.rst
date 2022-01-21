@@ -9,7 +9,8 @@ What’s Included
 ++++++++++++++
 he following algorithms are implemented in the Spinning Up package:
 
-* Vanilla Policy Gradient (VPG)
+
+- `Vanilla Policy Gradient`_ (VPG)
 * Trust Region Policy Optimization (TRPO)
 * Proximal Policy Optimization (PPO)
 * Deep Deterministic Policy Gradient (DDPG)

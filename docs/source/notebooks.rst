@@ -19,6 +19,6 @@ Notebooks
 .. figure:: /images/Kaggle.png
    :align: center
    :alt: Kaggle
-   :scale: 30%
+   :scale: 40%
    :target: https://www.kaggle.com/
 

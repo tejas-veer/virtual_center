@@ -8,6 +8,7 @@ Notebooks
 
 .. figure:: /images/colab.jpeg
    :align: center
+   :target: https://research.google.com/colaboratory/
 
 - `Kaggle`_
 
@@ -15,4 +16,5 @@ Notebooks
 
 .. figure:: /images/Kaggle.png
    :align: center
+   :target: https://www.kaggle.com/
 

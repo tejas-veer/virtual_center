@@ -49,6 +49,7 @@ ____________________
    :caption: Algorithms
 
    algorithms
+   vpg
    
 .. toctree::
    :maxdepth: 2

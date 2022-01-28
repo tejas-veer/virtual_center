@@ -77,7 +77,6 @@ Pseudocode
     \end{algorithmic}
     \end{algorithm}
 
-
 Documentation
 =============
 

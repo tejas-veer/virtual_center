@@ -50,6 +50,7 @@ ____________________
 
    algorithms
    vpg
+   trpo
    
 .. toctree::
    :maxdepth: 2

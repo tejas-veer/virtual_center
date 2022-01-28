@@ -51,6 +51,10 @@ ____________________
    algorithms
    vpg
    trpo
+   ppo
+   sac
+   td3
+   ddpg
    
 .. toctree::
    :maxdepth: 2

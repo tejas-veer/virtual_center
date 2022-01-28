@@ -9,9 +9,6 @@ Trust Region Policy Optimization
 Background
 ==========
 
-(Previously: `Background for VPG`_)
-
-.. _`Background for VPG`: ../algorithms/vpg.html#background
 
 TRPO updates policies by taking the largest step possible to improve performance, while satisfying a special constraint on how close the new and old policies are allowed to be. The constraint is expressed in terms of `KL-Divergence`_, a measure of (something like, but not exactly) distance between probability distributions. 
 

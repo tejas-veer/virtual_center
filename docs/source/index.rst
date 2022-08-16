@@ -6,7 +6,7 @@
 Machine learning for Earth System Science (ESS): A survey, statusand future directions for South Asia
 ===========================================================================================================
 
-.. figure:: /images/index.png
+.. figure:: /images/index.jpg
    :align: center
 
 
